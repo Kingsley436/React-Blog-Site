@@ -41,7 +41,7 @@ function AboutPage() {
               <Card.Body className="p-4">
                 <div className="profile-image-container mb-4">
                   <img 
-                    src="../src/assets/profilePhoto.jpg" 
+                    src="../src/assets/profilePhoto.jpg"
                     alt="Kingsley Quarshie" 
                     className="profile-image"
                   />
@@ -69,9 +69,8 @@ function AboutPage() {
                     <BsInstagram />
                   </a>
                 </div>
-                
-               
-                
+              
+
                 <div className="contact-info">
                   <p className="contact-item">
                     <strong>Email:</strong> qkingsley436@gmail.com
