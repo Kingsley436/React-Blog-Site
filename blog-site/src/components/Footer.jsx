@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import { BsHeart, BsGithub, BsTwitter, BsInstagram, BsLinkedin } from 'react-icons/bs';
+import { BsGithub, BsTwitter, BsInstagram, BsLinkedin } from 'react-icons/bs';
 
 function Footer() {
   return (

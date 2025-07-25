@@ -25,11 +25,11 @@ function BlogPage() {
 
   return (
     <div className="blog-page pt-5">
-      <Container fluid className="px-5 pt-4">
+      <Container fluid className="pt-4">
         {/* Header Section */}
-        <div className="blog-page-header">
+        <div className="blog-page-header px-5">
           <Container fluid>
-            <Row className="align-items-center py-4">
+            <Row className="align-items-center py-5">
               <Col>
                 <Button 
                   variant="outline-primary" 
@@ -50,7 +50,7 @@ function BlogPage() {
           </Container>
         </div>
 
-        <Container fluid>
+        <Container fluid className='px-5'>
           <Row className="g-4">
             {/* Main Content */}
             <Col lg={8}>

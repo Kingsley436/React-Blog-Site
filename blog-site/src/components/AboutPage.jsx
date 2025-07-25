@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Card, Button, Badge } from 'react-bootstrap';
-import { BsGithub, BsTwitter, BsLinkedin, BsInstagram, BsDownload, BsHeart, BsCode, BsPencil, BsCamera, BsGlobe } from 'react-icons/bs';
+import { BsGithub, BsTwitter, BsLinkedin, BsInstagram, BsHeart, BsCode, BsPencil, BsCamera, BsGlobe } from 'react-icons/bs';
 
 function AboutPage() {
   const skills = [
